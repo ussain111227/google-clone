@@ -1,0 +1,33 @@
+img{
+    display: block;
+    width: 400px;
+margin: auto;
+margin: right;
+margin-bottom: 10px;
+margin-top: 150px;
+}
+input{
+    display: block;
+    width: 700px;
+    margin: auto;
+margin: right;
+padding: 10px;
+
+
+}
+div{
+    text-align: center;
+    margin-top: 50px;
+   text-decoration: solid;
+   
+}
+button{
+    padding: 8px;
+    border: rgb(96, 190, 244) gray;
+
+}
+body h1{
+
+margin-top: 50px;
+text-transform: uppercase;
+}
